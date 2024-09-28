@@ -116,9 +116,9 @@ nav ul li a:hover {
 }
 
 .TCM-content {
-    text-align: center;
     z-index: 2;
     color: white;
+    text-align: end;
 }
 
 .TCM-content h1 {
